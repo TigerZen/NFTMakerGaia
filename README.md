@@ -1,6 +1,15 @@
 # NFTMakerGaia
  Master of NFT creation
  
+Official website:
+https://gaia-nftmaker.com/
+
+Operation and User Manual
+https://metaverse-freeport.gitbook.io/gaia-nft-maker/
+
+
+------------------------------------------------------------------------------
+
  
 1.設定抽成上限10BNB,達10BNB自動解除抽成
 >>>免除高抽成疑慮,下一版本會設定2BNB付費後就免抽成
